@@ -4,7 +4,7 @@ export default function Tour({tours,removeTour}){
     return (
         <div className="container">
             <div>
-                <h2 className="title">Plan with Love</h2>
+                <h2 className="title">Plan With Love</h2>
             </div>
 
             <div className="cards">
